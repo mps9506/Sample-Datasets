@@ -1,38 +1,3 @@
-#
-#
-# US Geological Survey, Water Resources Data
-# retrieved: 2015-08-01 15:39:40 EDT      (sdww02)
-#
-# This file contains USGS Surface-Water Monthly Statistics
-#
-# Note:The statistics generated from  this site are based on approved daily-mean data and may not match those published by the USGS in official publications.
-# The user is responsible for assessment and use of statistics from this site.
-# For more details on why the statistics may not match, visit http://waterdata.usgs.gov/or/nwis/?dv_statistics_disclaimer.
-#
-# ** No Incomplete data have been used for statistical calculation
-#
-# This file includes the following columns:
-#
-#
-# agency_cd    agency code
-# site_no USGS site number
-# parameter_cd
-# dd_nu
-# year_nu Calendar year for value
-# month_nu     Month for value
-# mean_va monthly-mean value.
-#         if there is not complete record
-#         for a month this field is blank
-#
-#
-# Sites in this file include:
-# USGS 14064500 DESCHUTES R AT BENHAM FALLS NR BEND,OREG.
-# 
-# Explanation of Parameter Code and dd_nu used in the Statistics Data 
-# parameter_cd	Parameter Name					dd_nu	Location Name
-# 00060		Discharge, cubic feet per second		5	
-#
-#
 agency_cd	site_no	parameter_cd	dd_nu	year_nu	month_nu	mean_va
 5s	15s	5s	3n	4s	2s	12n
 USGS	14064500	00060	5	1924	3	1367
